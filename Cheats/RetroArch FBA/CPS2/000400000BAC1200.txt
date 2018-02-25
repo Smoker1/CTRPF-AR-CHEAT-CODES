@@ -1,0 +1,14 @@
+RetroArch
+FBA CPS2
+000400000BAC1200
+Created by Smoker1
+--------------------
+
+[sfa-Inf Time]
+29099F68 00000063
+
+[sfa-Inf Health P1]
+090975A0 00900090
+
+[sfa-Inf Super P1]
+0909761C 00900000
