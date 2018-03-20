@@ -1,0 +1,9 @@
+Tetris (GB VC)
+0004000000018800
+Created by Nolberto82
+------------------------------
+
+[Drop Piece to Clear Lines(Left side-board)]
+D3000000 08000000
+2080216E 00000000
+D2000000 00000000
