@@ -1,0 +1,10 @@
+Street Fighter II (GB VC)
+0004000000006200
+Created by Smoker1
+---------------------------
+
+[Inf Time]
+288AE02A 00000063
+
+[P1 Inf Health]
+288AC1C0 00000070
