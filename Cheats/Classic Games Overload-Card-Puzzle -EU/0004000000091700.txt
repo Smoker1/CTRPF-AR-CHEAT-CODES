@@ -1,0 +1,11 @@
+Classic Games Overload: Card and Puzzle Edition
+0004000000091700
+CTR-ACGE
+Created by Smoker1
+-------------------------------------------------
+
+[99 Hints]
+280D73D4 00000063
+
+[Time Reset-Bring Up Menu]
+080D73DC 00000000
